@@ -7,3 +7,4 @@
 
 --->
 
+[![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcosgcr)](https://github.com/Marcosgcr/github-readme-stats)
